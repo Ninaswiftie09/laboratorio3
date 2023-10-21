@@ -1,0 +1,13 @@
+﻿id,categoria,nombre,disponible,vendido,estado,precio,tipo,sabor,tamaño,color
+gat,bebida,gatorade,50,23,disponible,10,energizante,-,-,-
+lech,bebida,leche,50,22,no disponible,20,lacteo,-,-,-
+jug,bebida,jugo,50,21,disponible,7,jugo,-,-,-
+rap,bebida,raptor,50,20,disponible,15,energizante,-,-,-
+tak,snack,takis,50,19,disponible,13,-,picante,individual,-
+fiesta,snack,fiesta snacks,50,18,disponible,5,-,natural,familiar,-
+galle,snack,galletas,50,17,disponible,8,-,barbacoa,individual,-
+dori,snack,doritos,50,16,no disponible,5,-,picante,familiar,-
+tromro,trompo,trompo rojo,50,15,no disponible,20,-,-,-,rojo
+tromver,trompo,trompo verde,50,14,disponible,20,-,-,-,verde
+tromaz,trompo,trompo azul,50,13,disponible,20,-,-,-,azul
+trommor,trompo,trompo morado,50,12,disponible,20,-,-,-,morado
